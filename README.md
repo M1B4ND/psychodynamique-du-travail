@@ -4,7 +4,7 @@ Ressources ouvertes et notes personnelles sur la psychodynamique du travail
 - [Auteurs](https://github.com/M1B4ND/psychodynamique-du-travail/blob/main/auteurs.md)
 - [Livres]()
 - [Concepts](https://github.com/M1B4ND/psychodynamique-du-travail/blob/main/concepts.md)
-- [Interventions]()
+- [Interventions](https://github.com/M1B4ND/psychodynamique-du-travail/blob/main/interventions.md)
 - [Comparaison]()
 - [Ressources]()
 - [Notes]()
